@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 :root{
     font-family: "Nunito Sans";
 }
@@ -29,3 +30,7 @@
     background: #3B82F6;
   }
   
+:root {
+  font-family: "Nunito Sans";
+}
+
